@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('E:\ML Learn\ML Project\Creating-SLR\placement.csv')
  
 
-X = df.iloc[:, 0:1]
+X = df.iloc[:, 0:1] # seprating the input and output columns
 Y = df.iloc[:, -1]
 
 from sklearn.model_selection import train_test_split
