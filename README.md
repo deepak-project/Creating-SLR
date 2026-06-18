@@ -1,4 +1,4 @@
-# Creating-SLR
+# Creating-SLR c
 
 We know the simple linear regression machine learning model just a best fit straight line of our data
 y = m * x + b
